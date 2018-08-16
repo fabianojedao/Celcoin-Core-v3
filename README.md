@@ -13,12 +13,11 @@ CelCoin (CELC) is a decentralised open source digital currency.
  - time warp and instamining protection
  - advanced checkpointing against 51% attacks
  - transaction messaging supported
- - PoW and PoS blocks carry the same fixed reward of 100 CELC
+ - PoW and PoS blocks carry the same fixed reward of 50 CELC
  - 6 confirmations for regular transactions
- - 200 confirmations for minted coins
+ - 50 confirmations for minted coins
  - very low transaction fees (most transactions are free)
  - no destruction of transaction fees (all collected by a block finder)
- - the default P2P port is 17298, RPC port is 17299
  - I2P/Tor ready
 
 
